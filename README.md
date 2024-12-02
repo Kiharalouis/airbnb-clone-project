@@ -250,3 +250,23 @@ The Scrum Master plays a vital role in fostering an Agile mindset and ensuring t
 
 By clearly defining these roles and responsibilities, the Airbnb Clone Project aims to create a well-structured team that collaborates effectively to deliver a high-quality product.
 
+## UI Component Patterns
+
+### Overview
+In this section, we outline the key UI components that will be developed for the application. These components are designed to be reusable and modular, ensuring consistency throughout the application while enhancing maintainability.
+
+### Components
+
+| Component        | Description                                                                                      |
+|------------------|--------------------------------------------------------------------------------------------------|
+| **Navbar**       | The Navbar will serve as the primary navigation element for the application. It will include links to key sections such as Home, Property Listings, About Us, and Contact. The Navbar will also feature a search bar for users to quickly find properties and a user account dropdown for login/logout functionality. It will be responsive and adapt to different screen sizes. |
+| **Property Card**| The Property Card component will display a summary of individual properties in the Property Listing View. Each card will include a thumbnail image, property title, price per night, and a brief description. Users can click on the card to view more details about the property. The design will ensure that essential information is easily accessible at a glance. |
+| **Footer**       | The Footer will provide additional navigation and information links, including Terms of Service, Privacy Policy, and social media icons. It will also include contact information and a subscription form for newsletters. The Footer will be consistent across all pages, providing users with easy access to important resources. |
+| **Search Bar**   | The Search Bar component will allow users to input their search criteria, including location, check-in and check-out dates, and the number of guests. This component will be prominently placed in the Navbar or on the home page to enhance visibility and usability. |
+| **Property Details**| This component will present detailed information about a selected property, including a gallery of images, a comprehensive description, amenities, availability calendar, and user reviews. It will facilitate user engagement by providing all necessary information for making a booking decision. |
+| **Checkout Form**| The Checkout Form component will guide users through the booking process. It will include fields for user information, payment details, and a summary of the booking. Clear instructions and validation messages will enhance the user experience and reduce errors during the checkout process. |
+| **Review Section**| This component will allow users to read and submit reviews for properties. It will display a list of existing reviews along with a form for submitting new feedback. This encourages user engagement and helps build trust among potential guests. |
+
+### Conclusion
+By creating these modular UI components, the Airbnb Clone Project aims to establish a consistent and user-friendly interface. Each component will be designed with reusability in mind, allowing for efficient development and easier maintenance as the application evolves.
+
