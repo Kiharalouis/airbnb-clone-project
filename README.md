@@ -114,6 +114,43 @@ Thank you for checking out the Airbnb Clone Project!
 | **Listing Detailed View** | When a user selects a property, they are taken to this page, which provides in-depth information about the listing. This includes multiple high-quality images, a detailed description, amenities, availability calendar, and user reviews. Users can also see the total price based on their selected dates and proceed to checkout. |
 | **Simple Checkout View** | This page allows users to review their booking details, enter payment information, and confirm their reservation. It includes a summary of the selected property, dates, total cost, and an easy-to-use form for payment details. A confirmation button finalizes the booking, and users receive a summary of their reservation. |
 
+### Color Styles
+
+| Color Name   | Hex Code  | Usage                        |
+|--------------|-----------|------------------------------|
+| Primary Color| #FF385C   | Main buttons, highlights      |
+| Secondary Color| #00A699 | Links, secondary buttons      |
+| Background Color| #F7F7F7 | Page backgrounds, cards       |
+| Text Color   | #333333   | Main text, headings           |
+| Accent Color | #FFC107   | Alerts, notifications         |
+
+### Typography
+
+| Element       | Font Family         | Font Weight | Font Size     |
+|---------------|---------------------|-------------|---------------|
+| Headings      | Montserrat          | Bold        | 24px          |
+| Subheadings   | Montserrat          | Semi-Bold   | 20px          |
+| Body Text     | Open Sans           | Regular     | 16px          |
+| Button Text   | Montserrat          | Bold        | 16px          |
+| Small Text    | Open Sans           | Light       | 14px          |
+
+### Importance of Identifying Design Properties in a Mockup Design
+Identifying design properties in a mockup design is crucial for several reasons:
+
+1. **Consistency:** Establishing clear design properties ensures consistency throughout the application. Consistent use of colors, typography, and spacing helps create a cohesive look and feel, making the user experience more intuitive.
+
+2. **Brand Identity:** Design properties play a significant role in reinforcing brand identity. By using specific colors and typography, the application can convey its personality and values, helping users form a connection with the brand.
+
+3. **Guidance for Development:** Clearly defined design properties serve as a guide for developers, ensuring that the final implementation aligns with the intended design. This minimizes discrepancies between the design and the developed product.
+
+4. **User  Experience:** Well-defined design properties contribute to a better user experience. They help users understand how to interact with the application, where to focus their attention, and how to navigate through the content.
+
+5. **Accessibility:** Identifying design properties can also address accessibility concerns. By choosing appropriate colors and font sizes, designers can ensure that the application is usable for individuals with visual impairments.
+
+6. **Efficiency in Design Process:** Having a clear set of design properties allows for quicker iterations and modifications. Designers can easily apply changes across the board without re-evaluating every element.
+
+By paying attention to design properties in the mockup phase, the Airbnb Clone Project aims to create a user-friendly, visually appealing, and consistent experience for all users.
+
 ### Importance of a User-Friendly Design in a Booking System
 A user-friendly design in a booking system is crucial for several reasons:
 
@@ -128,4 +165,4 @@ A user-friendly design in a booking system is crucial for several reasons:
 5. **Accessibility for All Users:** A focus on user-friendly design ensures that all potential customers, including those with disabilities, can access and use the booking system effectively, broadening the user base.
 
 By prioritizing UI/UX design, the Airbnb Clone Project aims to provide a seamless and enjoyable experience for all users, ultimately driving engagement and bookings.
-   
+
