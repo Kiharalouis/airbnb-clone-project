@@ -166,3 +166,87 @@ A user-friendly design in a booking system is crucial for several reasons:
 
 By prioritizing UI/UX design, the Airbnb Clone Project aims to provide a seamless and enjoyable experience for all users, ultimately driving engagement and bookings.
 
+## Project Roles and Responsibilities
+
+### Project Manager
+**Key Responsibilities:**
+- Oversee the project from initiation to completion, ensuring it stays on track and within budget.
+- Coordinate between different teams and stakeholders to facilitate communication and collaboration.
+- Manage project timelines, resources, and risks, adjusting plans as necessary.
+- Conduct regular meetings to review progress and address any challenges.
+
+**Contribution to Project Success:**
+The Project Manager ensures that the project is organized and runs smoothly, allowing team members to focus on their tasks. Their leadership helps maintain momentum and keeps the project aligned with its goals.
+
+### Frontend Developers
+**Key Responsibilities:**
+- Develop the user interface of the application using HTML, CSS, and JavaScript frameworks (e.g., React).
+- Collaborate with designers to implement visually appealing and responsive layouts.
+- Optimize the application for performance and user experience across various devices.
+- Ensure cross-browser compatibility and resolve any frontend issues.
+
+**Contribution to Project Success:**
+Frontend Developers create the visual aspect of the application, directly impacting user engagement and satisfaction. Their work ensures that users have a seamless and enjoyable experience while interacting with the platform.
+
+### Backend Developers
+**Key Responsibilities:**
+- Design and implement the server-side logic and database management systems.
+- Develop RESTful APIs to connect the frontend with the backend.
+- Ensure data security and integrity through proper authentication and authorization mechanisms.
+- Optimize backend performance and scalability to handle user requests efficiently.
+
+**Contribution to Project Success:**
+Backend Developers provide the necessary infrastructure and functionality that power the application. Their work ensures that the application runs smoothly and securely, supporting the overall user experience.
+
+### Designers
+**Key Responsibilities:**
+- Create wireframes, mockups, and prototypes to visualize the application’s design.
+- Develop a consistent design language, including color schemes, typography, and UI components.
+- Collaborate with frontend developers to ensure design fidelity during implementation.
+- Conduct user research and usability testing to gather feedback and refine designs.
+
+**Contribution to Project Success:**
+Designers play a crucial role in shaping the look and feel of the application. Their focus on user experience and aesthetics helps create a platform that is not only functional but also visually appealing, enhancing user engagement.
+
+### QA/Testers
+**Key Responsibilities:**
+- Develop and execute test plans to ensure the application meets quality standards.
+- Identify, document, and track bugs and issues throughout the development process.
+- Perform functional, regression, and performance testing to validate features.
+- Collaborate with developers to ensure timely resolution of identified issues.
+
+**Contribution to Project Success:**
+QA/Testers ensure that the application is reliable and free of critical bugs before launch. Their thorough testing process helps maintain a high level of quality, which is essential for user satisfaction and trust.
+
+### DevOps Engineers
+**Key Responsibilities:**
+- Manage the deployment and continuous integration/continuous deployment (CI/CD) pipeline.
+- Monitor system performance and ensure application availability and reliability.
+- Automate infrastructure provisioning and configuration management.
+- Collaborate with development and operations teams to streamline workflows.
+
+**Contribution to Project Success:**
+DevOps Engineers facilitate efficient collaboration between development and operations, ensuring that the application is deployed quickly and reliably. Their work helps minimize downtime and improve the overall performance of the application.
+
+### Product Owner
+**Key Responsibilities:**
+- Define the vision and strategy for the product, ensuring alignment with business goals.
+- Prioritize features and requirements based on user needs and market trends.
+- Act as the main point of contact between stakeholders and the development team.
+- Gather feedback from users and stakeholders to inform future development.
+
+**Contribution to Project Success:**
+The Product Owner ensures that the project delivers value to users and stakeholders. Their ability to prioritize and communicate effectively helps guide the team toward achieving the project’s objectives.
+
+### Scrum Master
+**Key Responsibilities:**
+- Facilitate Agile ceremonies such as sprint planning, daily stand-ups, and retrospectives.
+- Remove obstacles that impede the team's progress and promote a collaborative environment.
+- Ensure adherence to Agile principles and practices within the team.
+- Support the team in continuous improvement and self-organization.
+
+**Contribution to Project Success:**
+The Scrum Master plays a vital role in fostering an Agile mindset and ensuring that the team operates efficiently. Their support helps the team to stay focused, adapt to changes, and continuously improve their processes.
+
+By clearly defining these roles and responsibilities, the Airbnb Clone Project aims to create a well-structured team that collaborates effectively to deliver a high-quality product.
+
